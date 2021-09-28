@@ -5,7 +5,7 @@ O projeto é divido em dois diretorios `client` e `server`, sendo o front-end e 
 
 ###### Link para o site (Front-end) = https://desafio-de-desenvolvimen-528d9.web.app/ 
 ###### Link para a API (Back-end) = https://api-desafio-desenvolvimento.herokuapp.com/products
-
+###### Link para o projeto no Firebase = https://console.firebase.google.com/u/0/project/desafio-de-desenvolvimen-528d9/overview
 ------------
 ### Tecnologias utilizadas:
 #### Front end:
