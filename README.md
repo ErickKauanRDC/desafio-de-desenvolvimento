@@ -2,7 +2,9 @@
 ## Erick Kauan Lopes Santos
 ### Descrição do projeto:
 O projeto é divido em dois diretorios `client` e `server`, sendo o front-end e o back-end respectivamente. O back-end está hospedado no site Heroku e o front end no Firebase Hosting.
+
 Link para a API ( Back-end ) = https://api-desafio-desenvolvimento.herokuapp.com/products
+
 ------------
 ### Tecnologias utilizadas:
 #### Front end:
