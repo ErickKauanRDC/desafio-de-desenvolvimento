@@ -1,0 +1,12 @@
+.cont{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-shrink: 3;
+}
+.product-card img{
+    width: 10em;
+    height: 10em;
+    border: solid black 1px;
+    border-radius: 50%;
+}
