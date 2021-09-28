@@ -5,20 +5,20 @@ O projeto é divido em dois diretorios `client` e `server`, sendo o front-end e 
 
 ------------
 ### Tecnologias utilizadas:
-####Front end:
+#### Front end:
 - React JS
 - Material UI
 - Axios
 - Firebase Authenticator
 
-####Back end
+#### Back end
 - Node JS
 - Express
 - Multer
 - Firebase Storage
 
 ------------
-##Funcionalidades do site
+## Funcionalidades do site
 - CRUD dos produtos
 - Adicionar imagem na criação do produto
 - Autenticação com email e senha atraves do Firebase Authenticator
